@@ -13,5 +13,5 @@ end
 
 
 def age_appropriate_birthday(kids)
-    if birthday_kids
+    birthday_kids.any?
 
