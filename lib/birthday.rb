@@ -13,5 +13,6 @@ end
 
 
 def age_appropriate_birthday(kids)
-    if birthday_kids age 
+    if birthday_kids age > 12
+      
 
